@@ -8,18 +8,18 @@
   <parent>
     <groupId>com.walterjwhite.java.modules.financial</groupId>
     <artifactId>api</artifactId>
-    <version>0.0.15-SNAPSHOT</version>
+    <version>0.0.17-SNAPSHOT</version>
   </parent>
   <dependencies>
     <dependency>
       <groupId>com.walterjwhite.java.modules.encryption</groupId>
       <artifactId>api</artifactId>
-      <version>0.0.15-SNAPSHOT</version>
+      <version>0.0.17-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.walterjwhite.java.modules.identity.api</groupId>
       <artifactId>model</artifactId>
-      <version>0.0.15-SNAPSHOT</version>
+      <version>0.0.17-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>
